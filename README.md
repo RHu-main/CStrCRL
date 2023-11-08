@@ -1,5 +1,6 @@
 # CStrCRL
 Public code for [CStrCRL](https://ieeexplore.ieee.org/document/10239180).
+
 We are preparing to release the code and relevant files. 
 
 If you have any questions about the code, please send me an email, and I will respond ASAP. 
@@ -9,11 +10,11 @@ If you have any questions about the code, please send me an email, and I will re
 * PKUMMD II
 
 # Train
-python main.py pretrain_CStrCRL_ST --config=[myconfig/xxx.yaml] 
+`python main.py pretrain_CStrCRL_ST --config=[myconfig/xxx.yaml] `
 
 # Test
 
-python main.py linear_evaluation_ST --config=[myconfig/xxx.yaml] 
+`python main.py linear_evaluation_ST --config=[myconfig/xxx.yaml] `
 
 # Acknowledgement
 
