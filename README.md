@@ -1,8 +1,12 @@
 # CStrCRL
 Public code for CStrCRL.
-
 We are preparing to release the code and relevant files. 
 
 If you have any questions about the code, please send me an email, and I will respond ASAP. 
 
 
+# Acknowledgement
+
+We sincerely thank the authors for releasing the code of their valuable works. Our code is based on the following repos.
+* The code of our framework is mainly based on [HiCLR](https://github.com/JHang2020/HiCLR)
+* The code of encoder is based on [ST-GCN](https://github.com/yysijie/st-gcn/blob/master/OLD_README.md)
