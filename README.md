@@ -3,7 +3,7 @@ Public code for [CStrCRL](https://ieeexplore.ieee.org/document/10239180).
 
 We are preparing to release the code and relevant files. 
 
-If you have any questions about the code, please send me an email, and I will respond ASAP. 
+If you have any questions about the code, please email me, and I will respond ASAP. 
 
 # Data
 * NTU-RGB D 60/120
